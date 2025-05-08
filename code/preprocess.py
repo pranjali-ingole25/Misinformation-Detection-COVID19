@@ -1,10 +1,10 @@
-import nltk # type: ignore
+import nltk 
 import re
 import string
-import nltk # type: ignore
+import nltk 
 import pandas as pd
-from nltk.corpus import stopwords # type: ignore
-from nltk.stem import WordNetLemmatizer # type: ignore
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer 
 
 
 stop_words = set(stopwords.words('english'))
