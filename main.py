@@ -19,4 +19,5 @@ def main():
     model_evaluation(df['clean_text'], df['label'])
 
 if __name__ == "__main__":
+    
     main()
