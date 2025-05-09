@@ -7,26 +7,7 @@ A machine learning project to detect misinformation related to COVID-19 using Su
 2. **Natural Language Processing (NLP):** Utilizes NLP techniques to **process and clean textual data**.
 3. **Machine Learning Model:** Employs a **Support Vector Machine (SVM)** classifier to detect fake news with high accuracy.
 4. **Evaluation Metrics:** The model is evaluated using metrics like **accuracy, precision, recall, f1-score, and confusion matrix**.
-
-## **Features**
-
-The project uses the following features for detecting misinformation related to COVID-19:
-
-* **Text Data Preprocessing:**
-
-  * Removal of punctuation, special characters, and stopwords.
-  * Text lowercasing and tokenization.
-  * Lemmatization to reduce words to their base form.
-
-* **Feature Extraction:**
-
-  * **TF-IDF Vectorizer** to convert text into numerical features by measuring the importance of words in the dataset.
-
-* **Machine Learning Model:**
-
-  * **Support Vector Machine (SVM)** with a linear kernel for effective classification.
-
-
+   
 ## **Evaluation**
 
 The model performance is evaluated using the following metrics:
